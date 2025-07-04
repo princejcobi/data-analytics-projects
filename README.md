@@ -25,8 +25,7 @@ An interactive Power BI dashboard analyzing employee demographics, performance r
 ---
 
 ## 📁 Folder Structure
-
-
+data-analytics-projects/ ├── product-discount-analysis/ │   ├── Product_Analysis.xlsx │   ├── screenshots/ │   └── README.md ├── palmoria-employee-insights/ │   ├── Palmoria_Employee_Insights.pbix │   ├── screenshots/ │   └── README.md └── README.md
 
 
 ---
